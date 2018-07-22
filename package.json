@@ -1,0 +1,24 @@
+{
+  "name": "node-web-server",
+  "version": "1.0.0",
+  "description": "A simple node web server to train with express and handlebars",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "angristan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Angristan/node-web-server.git"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
+  }
+}
